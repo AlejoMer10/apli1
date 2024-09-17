@@ -1,0 +1,73 @@
+{
+   "checksum": "8eaaf39fc396ffdb49f1c13271f32ba2",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13311298695755841",
+            "date_last_used": "0",
+            "guid": "c6bedd71-3e5f-4aa4-a8f3-49c6489e0434",
+            "id": "6",
+            "name": "Libro Discretas II",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "file:///C:/Users/aleja/OneDrive/Escritorio/TODO%204TO%20SEMESTRE/DISCRETAS%20II/Matem%C3%A1ticas%20discretas%20(%20PDFDrive%20).pdf",
+            "visit_count": 0
+         }, {
+            "date_added": "13314167567650022",
+            "date_last_used": "0",
+            "guid": "91980e9a-3187-40e2-9969-a7fb2d133637",
+            "id": "7",
+            "name": "Sesion X.pdf (Taller de SQL).pdf",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "file:///C:/Users/aleja/OneDrive/Escritorio/TODO%204TO%20SEMESTRE/BASES%20DATOS%20I/Sesion%20X.pdf%20(Taller%20de%20SQL).pdf",
+            "visit_count": 0
+         }, {
+            "date_added": "13315627383789118",
+            "date_last_used": "0",
+            "guid": "b8186b45-fd8a-4e9b-ad12-df5b2b6a6a5d",
+            "id": "8",
+            "name": "Transaciones.pdf",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "file:///C:/Users/aleja/OneDrive/Escritorio/TODO%204TO%20SEMESTRE/BASES%20DATOS%20I/Documentos%20de%20apoyo/Transaciones.pdf",
+            "visit_count": 0
+         } ],
+         "date_added": "13369898774932743",
+         "date_last_used": "0",
+         "date_modified": "13315627383789118",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13369898774932748",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Otros favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13369898774932753",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoritos móviles",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCAjlWruRAQAAEgAqGEZTT0tscXlIT2lnR2hUcGJJRXhkdXc9PUgDoAYMEqgBCAgSowEKHDlLL2xqbWFWUU9YYmNURG9HeTBobmR3bGo3UT0SJGI4MTg2YjQ1LWZkOGEtNGU5Yi1hZDEyLWRmNWIyYjZhNmE1ZBgAIAAoADCIu5zE0TA4oLucxNEwQKC7nMTRMEocK2lydHhnZlE4aXNDMHpZSjZLNVp3YVptZ1FnPVofIh26K0hUVGQyb3cwRDdOZXZiZmpvRmZ6VmpsL3FJPWV3cGyjEqcBCAcSogEKHDNIQVJsaEVucjQyeEFnK0ovNkk5MWEzTmZDcz0SJDkxOTgwZTlhLTMxODctNDBlMi05OTY5LWE3ZmIyZDEzMzYzNxgAIAAoADDLq5CMzDA436uQjMwwQN+rkIzMMEocQWdvRmsxZmpZUmxHKzIrbGNIYXIwU1B6V0I4PVoeIhx1b2lLcUJuaVR4RTNRVFhod1ladmo2djZtRGs9ZXdwbKMSiQEIARKEAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkYmViYTM2Y2YtOGVlMi01YjE0LThhOGItZDU5NTcxYzE5ODE3GAAgACgAMM/ftamxMDjp2uLh7S9A6dri4e0vShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABKnAQgGEqIBChxSSExzMzBSMURsS3FFbjJVY3F0RERTRnNLN009EiRjNmJlZGQ3MS0zZTVmLTRhYTQtYThmMy00OWM2NDg5ZTA0MzQYACAAKAAw4aiTtMEwOJirkrTBMECYq5K0wTBKHDlXdHRjaEF5WXZpMzExRms4ZUNneVZINGxvZz1aHiIcMVZOck1WanBqQzJ4SE9pZDdwWm8wSVI1a0tJPWV3cGyjEokBCAIShAEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SJDNjMGM1MjYzLWYyNGMtNWYzMS1hMWUzLTVlNDMyNjBmYzRhORgAIAAoADDP37WpsTA4utri4e0vQLra4uHtL0ocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAASiQEIAxKEAQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkYzIyOGExMWMtMWQ5Yy01M2NhLWE0MTYtZjNiNGNlZTg4ZDcwGAAgACgAMM/ftamxMDiI2+Lh7S9AiNvi4e0vShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAADAAOAA=",
+   "version": 1
+}
